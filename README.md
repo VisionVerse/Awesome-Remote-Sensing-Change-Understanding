@@ -35,22 +35,14 @@ An awesome repository for remote sensing change detection, covering papers, data
 ## 2.4 HSI Change Detection
 
 
-## 🥇 Competition
- 1. [AntiUAV 1st](https://anti-uav.github.io/)
-	The first AntiUAV challenge is a multi-modal challenge. It was held in 2020.  The website for the 1st AntiUAV is covered by the newest one. The winner is team 
-
-## ⚓ Awesome Repositories
-* [Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
-
-
 
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=VisionVerse%2FAwesome-ChangeDetection&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=VisionVerse%2FAwesome-Remote-Sensing-Change-Understanding&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=VisionVerse/Awesome-ChangeDetection&type=date&theme=dark&legend=top-left&sealed_token=zz47e4OpJJZyJeUBDvnTZODud4O5arhR61guSVJvkxbrBPK6H1sQ5UyiwIFAUtk8i9SeWgFVm3xUo6vSxLzD2HnidL0oCNQ2DnnsTE7MnFcjkecix2AOQQv8DjePcEWw-8x4177ogqIl1iMDg7cV655nFUdR7FuCW8a1AGuCIoSvCZgyE383LfrV9I39" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=VisionVerse/Awesome-ChangeDetection&type=date&legend=top-left&sealed_token=zz47e4OpJJZyJeUBDvnTZODud4O5arhR61guSVJvkxbrBPK6H1sQ5UyiwIFAUtk8i9SeWgFVm3xUo6vSxLzD2HnidL0oCNQ2DnnsTE7MnFcjkecix2AOQQv8DjePcEWw-8x4177ogqIl1iMDg7cV655nFUdR7FuCW8a1AGuCIoSvCZgyE383LfrV9I39" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=VisionVerse/Awesome-ChangeDetection&type=date&legend=top-left&sealed_token=zz47e4OpJJZyJeUBDvnTZODud4O5arhR61guSVJvkxbrBPK6H1sQ5UyiwIFAUtk8i9SeWgFVm3xUo6vSxLzD2HnidL0oCNQ2DnnsTE7MnFcjkecix2AOQQv8DjePcEWw-8x4177ogqIl1iMDg7cV655nFUdR7FuCW8a1AGuCIoSvCZgyE383LfrV9I39" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=VisionVerse/Awesome-Remote-Sensing-Change-Understanding&type=date&theme=dark&legend=top-left&sealed_token=LB5ka9IjZWfTi-CeJ935k7_O2auno_5KpfPNR1muIkmaifFIZurnqzkKwGoes92TBEN2rAySNjj4suCoWDVPGCLwljYJ-3cVMhtz6kL0WdSM97kfHN8F224-klGj4SsE-gXIQfI3GONd1Uve2POkHYNh6-jq-AAQMqTnPMfI9yDnpjFiPovCeOYOAw5l" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=VisionVerse/Awesome-Remote-Sensing-Change-Understanding&type=date&legend=top-left&sealed_token=LB5ka9IjZWfTi-CeJ935k7_O2auno_5KpfPNR1muIkmaifFIZurnqzkKwGoes92TBEN2rAySNjj4suCoWDVPGCLwljYJ-3cVMhtz6kL0WdSM97kfHN8F224-klGj4SsE-gXIQfI3GONd1Uve2POkHYNh6-jq-AAQMqTnPMfI9yDnpjFiPovCeOYOAw5l" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=VisionVerse/Awesome-Remote-Sensing-Change-Understanding&type=date&legend=top-left&sealed_token=LB5ka9IjZWfTi-CeJ935k7_O2auno_5KpfPNR1muIkmaifFIZurnqzkKwGoes92TBEN2rAySNjj4suCoWDVPGCLwljYJ-3cVMhtz6kL0WdSM97kfHN8F224-klGj4SsE-gXIQfI3GONd1Uve2POkHYNh6-jq-AAQMqTnPMfI9yDnpjFiPovCeOYOAw5l" />
  </picture>
 </a>
