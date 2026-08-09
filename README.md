@@ -7,7 +7,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 * [2026.5.10] The repository is started.
 
 
-### Find what you want quickly
+## Find what you want quickly
 
 - [Remote Sensing Change Detection](#21-rs-change-detection)
 
@@ -15,27 +15,27 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 
 
-## 1. Surveys and Report
+## :zero: Surveys and Report
 - https://github.com/wenhwu/awesome-remote-sensing-change-detection
 
 
 ------
 
-## 2.1 RS Change Detection
+## :one: RS Change Detection
 2026
 * CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking. Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu. AAAI 2026. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37535)] [[Code](https://github.com/IdolLab/CADTrack)]. CADTrack
 
 
-## 2.2 RS Change Caption
+## :two: RS Change Caption
 
 -----
 
-## 2.3 SAR Change Detection
+## :three: SAR Change Detection
 
 ------
 
 
-## 2.4 HSI Change Detection
+## :four: HSI Change Detection
 
 
 -----------
