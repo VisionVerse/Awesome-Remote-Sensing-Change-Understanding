@@ -28,14 +28,17 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 ## 2.2 RS Change Caption
 
+-----
 
 ## 2.3 SAR Change Detection
+
+------
 
 
 ## 2.4 HSI Change Detection
 
 
-
+-----------
 
 ## Star History
 
@@ -46,3 +49,6 @@ An awesome repository for remote sensing change detection, covering papers, data
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=VisionVerse/Awesome-Remote-Sensing-Change-Understanding&type=date&legend=top-left&sealed_token=LB5ka9IjZWfTi-CeJ935k7_O2auno_5KpfPNR1muIkmaifFIZurnqzkKwGoes92TBEN2rAySNjj4suCoWDVPGCLwljYJ-3cVMhtz6kL0WdSM97kfHN8F224-klGj4SsE-gXIQfI3GONd1Uve2POkHYNh6-jq-AAQMqTnPMfI9yDnpjFiPovCeOYOAw5l" />
  </picture>
 </a>
+
+
+# :wave::wave::wave: Thanks to the above authors for their excellent work！
