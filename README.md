@@ -4,7 +4,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 ## 💥: Update Log 
 * [2024.12.17] We update the criterion for taxonomy and also invovle newly published methods.
-* [2026.7.10] The repository is started.
+* [2026.5.10] The repository is started.
 
 
 ## :punch: : Find what you want quickly
@@ -13,29 +13,10 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 
 
-## :punch: :Datasets and Benchmarks
-
-### RGB-Mutli Datasets
-
-| Dataset | Publish  | GitHub| Introduction|
-|--|--|--| --|
-| QuadTrack600| Arxiv'2025 |[QuadTrack600]() |RGB+T+E+L: Towards General Multimodal Visual Tracking|
-| UniMod1K| IJCV'2024 |[UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K) |RGB+D+L: UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning|
-| WebUAV-3M| TPAMI'2023 | [WebUAV-3M](https://github.com/983632847/WebUAV-3M) | RGB+L+Audio: WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking|
-
-
-
-### RGBT Datasets
-
-| Dataset | Publish  | GitHub| Introduction|
-|--|--|--| --|
-| MV-RGBT| Arxiv'2024 |MV-RGBT |Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method|
-
-
 
 
 ## :star2: :Surveys and Report
-* RGBD/T/L/Lidar ---- Visual Object Tracking across Diverse Data Modalities: A Review. Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, and Yong Liu. [[Paper](Arxiv 2024. https://arxiv.org/abs/2412.09991)]
+- https://github.com/wenhwu/awesome-remote-sensing-change-detection
 
 
 
