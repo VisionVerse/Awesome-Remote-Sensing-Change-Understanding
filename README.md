@@ -7,7 +7,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 * [2026.5.10] The repository is started.
 
 
-## Find what you want quickly
+### Find what you want quickly
 
 - [Remote Sensing Change Detection](#21-rs-change-detection)
 
@@ -19,7 +19,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 - https://github.com/wenhwu/awesome-remote-sensing-change-detection
 
 
-
+------
 
 ## 2.1 RS Change Detection
 2026
