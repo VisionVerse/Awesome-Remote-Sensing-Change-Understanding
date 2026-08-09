@@ -2,12 +2,12 @@
 An awesome repository for remote sensing change detection, covering papers, datasets, benchmarks, foundation models, and AI agents.
 
 
-## 💥: Update Log 
+## Update Log 
 * [2024.12.17] We update the criterion for taxonomy and also invovle newly published methods.
 * [2026.5.10] The repository is started.
 
 
-## :punch: : Find what you want quickly
+## Find what you want quickly
 
 - [Remote Sensing Change Detection](#21-rs-change-detection)
 
@@ -15,7 +15,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 
 
-## :star2: :Surveys and Report
+## 1. Surveys and Report
 - https://github.com/wenhwu/awesome-remote-sensing-change-detection
 
 
