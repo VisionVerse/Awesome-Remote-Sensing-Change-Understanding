@@ -9,7 +9,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 ## :punch: : Find what you want quickly
 
-- [Remote Sensing Change Detection](#RS-Change-Detection)
+- [Remote Sensing Change Detection](#21-rs-change-detection)
 
 
 
