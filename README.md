@@ -23,7 +23,7 @@ An awesome repository for remote sensing change detection, covering papers, data
 
 ## :one: RS Change Detection
 2026
-* CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking. Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu. AAAI 2026. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37535)] [[Code](https://github.com/IdolLab/CADTrack)]. CADTrack
+- CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking. AAAI 2026. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37535)] [[Code](https://github.com/IdolLab/CADTrack)].
 
 
 ## :two: RS Change Caption
