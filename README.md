@@ -1,5 +1,6 @@
-# Awesome Remote Sensing Change Detection
-An awesome repository for remote sensing change detection, covering papers, datasets, benchmarks, foundation models, and AI agents.
+# Awesome Remote Sensing Change Understanding
+![avatar](/RSCD.png)
+An awesome repository for remote sensing change understanding, covering papers, datasets, benchmarks, foundation models, and AI agents.
 
 
 ## Update Log 
