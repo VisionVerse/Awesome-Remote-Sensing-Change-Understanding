@@ -3,9 +3,9 @@
 An awesome repository for remote sensing change understanding, covering papers, datasets, benchmarks, foundation models, and AI agents.
 
 
-## Update Log 
-* [2024.12.17] We update the criterion for taxonomy and also invovle newly published methods.
-* [2026.5.10] The repository is started.
+
+## :mega: Update
+- **2026/09**: RGB-T Fusion +1,  RGB-T SOD +1, RGB-T CC +1, RGB-T SS +1, RGB-T Tracking +1, RGB-T ReID +2,
 
 
 ## Find what you want quickly
